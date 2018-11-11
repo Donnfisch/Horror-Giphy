@@ -1,2 +1,2 @@
-# GIPHY-API
-Funny Giphys with AJAX and Giphy APIs
+Horror GIPHY API
+Killer Gif's W/ Giphy APIs
