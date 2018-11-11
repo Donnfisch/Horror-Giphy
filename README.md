@@ -1,2 +1,2 @@
-# Horror-Giphy
-Giphy api project
+# GIPHY-API
+Funny Giphys with AJAX and Giphy APIs

@@ -1,0 +1,86 @@
+body {
+   align-content: center;
+   background: url("../images/Background.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: red;
+    
+}
+
+.holder {
+    font-family: 'Creepster';
+    padding: 5%;   
+}
+
+.jumbotron {
+    font-family: 'Creepster';
+    font-size: 120px;
+    color: Red;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: none;
+    text-shadow:
+		-5px -5px 0 #000,
+		5px -5px 0 #000,
+		-5px 5px 0 #000,
+        5px 5px 0 #000;
+}
+
+form {
+ margin-left: -50px;  
+}
+
+#idAdd {
+    background: black;
+    color: red;
+    border-color: white; 
+    border-radius: 12px;  
+}
+
+#ShowInput {
+    background: black;
+    color: red;
+    border-color: white;  
+}
+
+.clsButton {
+    background: black;
+    color: red;
+    border-color: white;
+    border-radius: 12px;
+    width: 100%;
+    margin: 3%;
+    
+}
+
+.clsImgDiv {
+    float: left;
+    margin: 5px;
+}
+
+.clsImage {
+    width: 377px;
+    height: 200px;   
+}
+
+p {
+    text-align: center;
+    text-shadow:
+		-2px -2px 0 #000,
+		2px -2px 0 #000,
+		-2px 2px 0 #000,
+        2px 2px 0 #000;
+}
+
+#idGiphysDiv {
+    background: rgba(0, 0, 0, 0.507);
+}
+
